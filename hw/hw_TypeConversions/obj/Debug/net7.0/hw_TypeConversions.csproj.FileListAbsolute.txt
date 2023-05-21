@@ -1,0 +1,15 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_TypeConversions\bin\Debug\net7.0\hw_TypeConversions.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_TypeConversions\bin\Debug\net7.0\hw_TypeConversions.deps.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_TypeConversions\bin\Debug\net7.0\hw_TypeConversions.runtimeconfig.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_TypeConversions\bin\Debug\net7.0\hw_TypeConversions.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_TypeConversions\bin\Debug\net7.0\hw_TypeConversions.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_TypeConversions\obj\Debug\net7.0\hw_TypeConversions.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_TypeConversions\obj\Debug\net7.0\hw_TypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_TypeConversions\obj\Debug\net7.0\hw_TypeConversions.AssemblyInfoInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_TypeConversions\obj\Debug\net7.0\hw_TypeConversions.AssemblyInfo.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_TypeConversions\obj\Debug\net7.0\hw_TypeConversions.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_TypeConversions\obj\Debug\net7.0\hw_TypeConversions.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_TypeConversions\obj\Debug\net7.0\refint\hw_TypeConversions.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_TypeConversions\obj\Debug\net7.0\hw_TypeConversions.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_TypeConversions\obj\Debug\net7.0\hw_TypeConversions.genruntimeconfig.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_TypeConversions\obj\Debug\net7.0\ref\hw_TypeConversions.dll

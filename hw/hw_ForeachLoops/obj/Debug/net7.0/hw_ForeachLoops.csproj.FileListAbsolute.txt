@@ -1,0 +1,15 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ForeachLoops\bin\Debug\net7.0\hw_ForeachLoops.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ForeachLoops\bin\Debug\net7.0\hw_ForeachLoops.deps.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ForeachLoops\bin\Debug\net7.0\hw_ForeachLoops.runtimeconfig.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ForeachLoops\bin\Debug\net7.0\hw_ForeachLoops.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ForeachLoops\bin\Debug\net7.0\hw_ForeachLoops.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ForeachLoops\obj\Debug\net7.0\hw_ForeachLoops.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ForeachLoops\obj\Debug\net7.0\hw_ForeachLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ForeachLoops\obj\Debug\net7.0\hw_ForeachLoops.AssemblyInfoInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ForeachLoops\obj\Debug\net7.0\hw_ForeachLoops.AssemblyInfo.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ForeachLoops\obj\Debug\net7.0\hw_ForeachLoops.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ForeachLoops\obj\Debug\net7.0\hw_ForeachLoops.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ForeachLoops\obj\Debug\net7.0\refint\hw_ForeachLoops.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ForeachLoops\obj\Debug\net7.0\hw_ForeachLoops.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ForeachLoops\obj\Debug\net7.0\hw_ForeachLoops.genruntimeconfig.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ForeachLoops\obj\Debug\net7.0\ref\hw_ForeachLoops.dll

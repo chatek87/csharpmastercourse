@@ -1,0 +1,15 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Conditionals\bin\Debug\net7.0\hw_Conditionals.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Conditionals\bin\Debug\net7.0\hw_Conditionals.deps.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Conditionals\bin\Debug\net7.0\hw_Conditionals.runtimeconfig.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Conditionals\bin\Debug\net7.0\hw_Conditionals.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Conditionals\bin\Debug\net7.0\hw_Conditionals.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Conditionals\obj\Debug\net7.0\hw_Conditionals.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Conditionals\obj\Debug\net7.0\hw_Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Conditionals\obj\Debug\net7.0\hw_Conditionals.AssemblyInfoInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Conditionals\obj\Debug\net7.0\hw_Conditionals.AssemblyInfo.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Conditionals\obj\Debug\net7.0\hw_Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Conditionals\obj\Debug\net7.0\hw_Conditionals.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Conditionals\obj\Debug\net7.0\refint\hw_Conditionals.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Conditionals\obj\Debug\net7.0\hw_Conditionals.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Conditionals\obj\Debug\net7.0\hw_Conditionals.genruntimeconfig.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Conditionals\obj\Debug\net7.0\ref\hw_Conditionals.dll

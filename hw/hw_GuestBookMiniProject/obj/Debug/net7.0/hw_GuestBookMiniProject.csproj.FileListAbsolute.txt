@@ -1,0 +1,15 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_GuestBookMiniProject\bin\Debug\net7.0\hw_GuestBookMiniProject.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_GuestBookMiniProject\bin\Debug\net7.0\hw_GuestBookMiniProject.deps.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_GuestBookMiniProject\bin\Debug\net7.0\hw_GuestBookMiniProject.runtimeconfig.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_GuestBookMiniProject\bin\Debug\net7.0\hw_GuestBookMiniProject.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_GuestBookMiniProject\bin\Debug\net7.0\hw_GuestBookMiniProject.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_GuestBookMiniProject\obj\Debug\net7.0\hw_GuestBookMiniProject.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_GuestBookMiniProject\obj\Debug\net7.0\hw_GuestBookMiniProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_GuestBookMiniProject\obj\Debug\net7.0\hw_GuestBookMiniProject.AssemblyInfoInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_GuestBookMiniProject\obj\Debug\net7.0\hw_GuestBookMiniProject.AssemblyInfo.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_GuestBookMiniProject\obj\Debug\net7.0\hw_GuestBookMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_GuestBookMiniProject\obj\Debug\net7.0\hw_GuestBookMiniProject.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_GuestBookMiniProject\obj\Debug\net7.0\refint\hw_GuestBookMiniProject.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_GuestBookMiniProject\obj\Debug\net7.0\hw_GuestBookMiniProject.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_GuestBookMiniProject\obj\Debug\net7.0\hw_GuestBookMiniProject.genruntimeconfig.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_GuestBookMiniProject\obj\Debug\net7.0\ref\hw_GuestBookMiniProject.dll

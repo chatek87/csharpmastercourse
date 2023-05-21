@@ -1,0 +1,15 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Lists\bin\Debug\net7.0\hw_Lists.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Lists\bin\Debug\net7.0\hw_Lists.deps.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Lists\bin\Debug\net7.0\hw_Lists.runtimeconfig.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Lists\bin\Debug\net7.0\hw_Lists.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Lists\bin\Debug\net7.0\hw_Lists.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Lists\obj\Debug\net7.0\hw_Lists.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Lists\obj\Debug\net7.0\hw_Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Lists\obj\Debug\net7.0\hw_Lists.AssemblyInfoInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Lists\obj\Debug\net7.0\hw_Lists.AssemblyInfo.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Lists\obj\Debug\net7.0\hw_Lists.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Lists\obj\Debug\net7.0\hw_Lists.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Lists\obj\Debug\net7.0\refint\hw_Lists.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Lists\obj\Debug\net7.0\hw_Lists.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Lists\obj\Debug\net7.0\hw_Lists.genruntimeconfig.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Lists\obj\Debug\net7.0\ref\hw_Lists.dll

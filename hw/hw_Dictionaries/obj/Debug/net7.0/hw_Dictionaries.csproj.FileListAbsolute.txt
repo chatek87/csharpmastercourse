@@ -1,0 +1,15 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Dictionaries\bin\Debug\net7.0\hw_Dictionaries.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Dictionaries\bin\Debug\net7.0\hw_Dictionaries.deps.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Dictionaries\bin\Debug\net7.0\hw_Dictionaries.runtimeconfig.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Dictionaries\bin\Debug\net7.0\hw_Dictionaries.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Dictionaries\bin\Debug\net7.0\hw_Dictionaries.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Dictionaries\obj\Debug\net7.0\hw_Dictionaries.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Dictionaries\obj\Debug\net7.0\hw_Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Dictionaries\obj\Debug\net7.0\hw_Dictionaries.AssemblyInfoInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Dictionaries\obj\Debug\net7.0\hw_Dictionaries.AssemblyInfo.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Dictionaries\obj\Debug\net7.0\hw_Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Dictionaries\obj\Debug\net7.0\hw_Dictionaries.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Dictionaries\obj\Debug\net7.0\refint\hw_Dictionaries.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Dictionaries\obj\Debug\net7.0\hw_Dictionaries.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Dictionaries\obj\Debug\net7.0\hw_Dictionaries.genruntimeconfig.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Dictionaries\obj\Debug\net7.0\ref\hw_Dictionaries.dll

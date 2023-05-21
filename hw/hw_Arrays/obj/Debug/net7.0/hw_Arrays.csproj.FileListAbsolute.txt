@@ -1,0 +1,15 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Arrays\bin\Debug\net7.0\hw_Arrays.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Arrays\bin\Debug\net7.0\hw_Arrays.deps.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Arrays\bin\Debug\net7.0\hw_Arrays.runtimeconfig.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Arrays\bin\Debug\net7.0\hw_Arrays.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Arrays\bin\Debug\net7.0\hw_Arrays.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Arrays\obj\Debug\net7.0\hw_Arrays.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Arrays\obj\Debug\net7.0\hw_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Arrays\obj\Debug\net7.0\hw_Arrays.AssemblyInfoInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Arrays\obj\Debug\net7.0\hw_Arrays.AssemblyInfo.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Arrays\obj\Debug\net7.0\hw_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Arrays\obj\Debug\net7.0\hw_Arrays.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Arrays\obj\Debug\net7.0\refint\hw_Arrays.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Arrays\obj\Debug\net7.0\hw_Arrays.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Arrays\obj\Debug\net7.0\hw_Arrays.genruntimeconfig.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Arrays\obj\Debug\net7.0\ref\hw_Arrays.dll

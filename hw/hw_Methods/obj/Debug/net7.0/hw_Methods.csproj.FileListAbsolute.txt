@@ -1,0 +1,15 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Methods\bin\Debug\net7.0\hw_Methods.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Methods\bin\Debug\net7.0\hw_Methods.deps.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Methods\bin\Debug\net7.0\hw_Methods.runtimeconfig.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Methods\bin\Debug\net7.0\hw_Methods.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Methods\bin\Debug\net7.0\hw_Methods.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Methods\obj\Debug\net7.0\hw_Methods.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Methods\obj\Debug\net7.0\hw_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Methods\obj\Debug\net7.0\hw_Methods.AssemblyInfoInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Methods\obj\Debug\net7.0\hw_Methods.AssemblyInfo.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Methods\obj\Debug\net7.0\hw_Methods.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Methods\obj\Debug\net7.0\hw_Methods.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Methods\obj\Debug\net7.0\refint\hw_Methods.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Methods\obj\Debug\net7.0\hw_Methods.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Methods\obj\Debug\net7.0\hw_Methods.genruntimeconfig.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_Methods\obj\Debug\net7.0\ref\hw_Methods.dll

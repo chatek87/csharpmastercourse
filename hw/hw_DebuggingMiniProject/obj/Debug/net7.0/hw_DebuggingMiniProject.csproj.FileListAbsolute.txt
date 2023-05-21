@@ -1,0 +1,15 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_DebuggingMiniProject\bin\Debug\net7.0\hw_DebuggingMiniProject.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_DebuggingMiniProject\bin\Debug\net7.0\hw_DebuggingMiniProject.deps.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_DebuggingMiniProject\bin\Debug\net7.0\hw_DebuggingMiniProject.runtimeconfig.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_DebuggingMiniProject\bin\Debug\net7.0\hw_DebuggingMiniProject.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_DebuggingMiniProject\bin\Debug\net7.0\hw_DebuggingMiniProject.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_DebuggingMiniProject\obj\Debug\net7.0\hw_DebuggingMiniProject.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_DebuggingMiniProject\obj\Debug\net7.0\hw_DebuggingMiniProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_DebuggingMiniProject\obj\Debug\net7.0\hw_DebuggingMiniProject.AssemblyInfoInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_DebuggingMiniProject\obj\Debug\net7.0\hw_DebuggingMiniProject.AssemblyInfo.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_DebuggingMiniProject\obj\Debug\net7.0\hw_DebuggingMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_DebuggingMiniProject\obj\Debug\net7.0\hw_DebuggingMiniProject.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_DebuggingMiniProject\obj\Debug\net7.0\refint\hw_DebuggingMiniProject.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_DebuggingMiniProject\obj\Debug\net7.0\hw_DebuggingMiniProject.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_DebuggingMiniProject\obj\Debug\net7.0\hw_DebuggingMiniProject.genruntimeconfig.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_DebuggingMiniProject\obj\Debug\net7.0\ref\hw_DebuggingMiniProject.dll

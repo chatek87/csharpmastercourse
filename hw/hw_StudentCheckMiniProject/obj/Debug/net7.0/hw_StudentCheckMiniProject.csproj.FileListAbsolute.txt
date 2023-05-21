@@ -1,0 +1,15 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_StudentCheckMiniProject\bin\Debug\net7.0\hw_StudentCheckMiniProject.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_StudentCheckMiniProject\bin\Debug\net7.0\hw_StudentCheckMiniProject.deps.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_StudentCheckMiniProject\bin\Debug\net7.0\hw_StudentCheckMiniProject.runtimeconfig.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_StudentCheckMiniProject\bin\Debug\net7.0\hw_StudentCheckMiniProject.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_StudentCheckMiniProject\bin\Debug\net7.0\hw_StudentCheckMiniProject.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_StudentCheckMiniProject\obj\Debug\net7.0\hw_StudentCheckMiniProject.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_StudentCheckMiniProject\obj\Debug\net7.0\hw_StudentCheckMiniProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_StudentCheckMiniProject\obj\Debug\net7.0\hw_StudentCheckMiniProject.AssemblyInfoInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_StudentCheckMiniProject\obj\Debug\net7.0\hw_StudentCheckMiniProject.AssemblyInfo.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_StudentCheckMiniProject\obj\Debug\net7.0\hw_StudentCheckMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_StudentCheckMiniProject\obj\Debug\net7.0\hw_StudentCheckMiniProject.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_StudentCheckMiniProject\obj\Debug\net7.0\refint\hw_StudentCheckMiniProject.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_StudentCheckMiniProject\obj\Debug\net7.0\hw_StudentCheckMiniProject.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_StudentCheckMiniProject\obj\Debug\net7.0\hw_StudentCheckMiniProject.genruntimeconfig.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_StudentCheckMiniProject\obj\Debug\net7.0\ref\hw_StudentCheckMiniProject.dll
