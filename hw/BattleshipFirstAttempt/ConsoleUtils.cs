@@ -74,13 +74,17 @@ public static class ConsoleUtils
     }
     public static void DisplayCurrentPlayerGrid(Player player)
     {
-        //for (int col = 0; col < Game.GridSize; col++)
-        //{
-        //    Console.Write((char)('A' + col) + " ");
-        //}
+        PrintCell(' ');
+        for (int col = 0; col < Game.GridSize; col++)
+        {
+            PrintCell((char)('A' + col));
+            //Console.Write((char)('A' + col) + " ");
+        }
+        Console.WriteLine();
+
         for (int row = 0; row <Game.GridSize; row++)
         {
-            //Console.Write((row + 1).ToString().PadLeft(2) + " ");
+            Console.Write((row + 1).ToString().PadLeft(2) + " ");
 
             for (int col = 0; col < Game.GridSize; col++)
             {
@@ -175,7 +179,7 @@ With each hit and sunk ship, let the victory begin!
                 Console.Clear();
                 DisplayCurrentPlayerGrid(player);
                 Console.WriteLine();
-                Console.Write($"ShipSymbol #{shipsPlaced + 1} coordinate: ");
+                Console.Write($"{player.PlayerName} Ship #{shipsPlaced + 1} coordinate: ");
                 var input = Console.ReadLine();
                 var coordinate = Game.ValidateCoordinateGetIndex(input);
                 if (!coordinate.isValid)
@@ -191,11 +195,16 @@ With each hit and sunk ship, let the victory begin!
                 else if (coordinate.isValid && player.Grid[coordinate.row, coordinate.col].ContainsShip == false)
                 {
                     player.Grid[coordinate.row, coordinate.col].ContainsShip = true;
-                    Console.WriteLine($"ShipSymbol placed at {input}!");
+                    //Console.WriteLine($"ShipSymbol placed at {input}!");
                     shipsPlaced++;
-                    WaitForKeyPress();
+                    //WaitForKeyPress();
                 }
             }
+            Console.Clear();
+            DisplayCurrentPlayerGrid(player);
+            Console.WriteLine();
+            Console.WriteLine("All ships added!");
+            WaitForKeyPress();
         }
     }
 
