@@ -4,11 +4,11 @@ public static class ConsoleUtils
 {
     // symbols to be displayed on current player grid
     public const char ShipSymbol = '*';
-    public const char NoShipSymbol = '~';
+    public const char NoShipSymbol = '-';
     // symbols to be displayed on opponent grid
-    public const char NotYetFiredUponSymbol = '?';
-    public const char SunkSymbol = 'X';
-    public const char MissedSymbol = '-';
+    public const char NotYetFiredUponSymbol = '-';
+    public const char SunkSymbol = 'X'; // also displayed on current player grid
+    public const char MissedSymbol = '~';
     
     
     // get user input methods
@@ -28,7 +28,7 @@ public static class ConsoleUtils
         {
             Console.Clear();
             Console.WriteLine($"{player.PlayerName}, it is time to place your {Game.NumberOfShipsPerPlayer} ships!");
-            Console.WriteLine($"For each ship, enter a coordinate between A1 and E5");
+            Console.WriteLine($"For each ship, enter a positon between A1 and E5");
             Console.WriteLine();
             WaitForKeyPress();
 
@@ -38,22 +38,22 @@ public static class ConsoleUtils
                 Console.Clear();
                 DisplayCurrentPlayerGrid(player);
                 Console.WriteLine();
-                Console.Write($"{player.PlayerName} Ship #{shipsPlaced + 1} coordinate: ");
+                Console.Write($"{player.PlayerName} Ship #{shipsPlaced + 1} position: ");
                 var input = Console.ReadLine();
-                var coordinate = Game.ValidateCoordinateGetIndex(input);
-                if (!coordinate.isValid)
+                var index = Game.ValidateCoordinateGetIndex(input);
+                if (!index.isValid)
                 {
-                    Console.WriteLine("Please enter a valid coordinate between A1 and E5");
+                    Console.WriteLine("Please enter a valid position between A1 and E5");
                     WaitForKeyPress();
                 }
-                else if (coordinate.isValid && player.Grid[coordinate.row, coordinate.col].ContainsShip == true)
+                else if (index.isValid && player.Grid[index.row, index.col].ContainsShip == true)
                 {
-                    Console.WriteLine("This coordinate is already occupied by one of your ships");
+                    Console.WriteLine("This position is already occupied by one of your ships");
                     WaitForKeyPress();
                 }
-                else if (coordinate.isValid && player.Grid[coordinate.row, coordinate.col].ContainsShip == false)
+                else if (index.isValid && player.Grid[index.row, index.col].ContainsShip == false)
                 {
-                    player.Grid[coordinate.row, coordinate.col].ContainsShip = true;
+                    player.Grid[index.row, index.col].ContainsShip = true;
                     shipsPlaced++;
                 }
             }
@@ -63,10 +63,13 @@ public static class ConsoleUtils
             Console.WriteLine("All ships added!");
             WaitForKeyPress();
         }
+        Console.Clear();
+        Console.WriteLine("Ready to start game!");
+        WaitForKeyPress();
     }
-    public static string? GetMoveFromConsole()
+    public static string? GetMoveFromConsole(Player currentPlayer)
     {
-        Console.Write("Enter your move: ");
+        Console.Write($"{currentPlayer.PlayerName}, enter your move: ");
         var move = Console.ReadLine();
         return move;
     }
@@ -163,16 +166,15 @@ With each hit and sunk ship, let the victory begin!
     }
     public static void DisplayGameplayScreen(Game game, int currentPlayerIndex, int currentOpponentIndex)
     {
-        Console.WriteLine($"{game.Players[currentOpponentIndex].PlayerName}");
-        Console.WriteLine($"Ships Remaining: { game.Players[currentOpponentIndex].ShipsRemaining}");
+        Console.WriteLine($"{game.Players[currentOpponentIndex].PlayerName}'s ships remaining: {game.Players[currentPlayerIndex].ShipsRemaining}");
+        Console.WriteLine();
         DisplayCurrentOpponentGrid(game.Players[currentOpponentIndex]);
         Console.WriteLine();
         Console.WriteLine();
         Console.WriteLine();
         DisplayCurrentPlayerGrid(game.Players[currentPlayerIndex]);
-        Console.WriteLine($"{game.Players[currentPlayerIndex].PlayerName}");
-        Console.WriteLine($"Ships Remaining: {game.Players[currentPlayerIndex].ShipsRemaining}");
         Console.WriteLine();
+        Console.WriteLine($"Your ships remaining: {game.Players[currentPlayerIndex].ShipsRemaining}");
     }
     public static void DisplayCurrentPlayerGrid(Player player)
     {
@@ -189,11 +191,19 @@ With each hit and sunk ship, let the victory begin!
 
             for (int col = 0; col < Game.GridSize; col++)
             {
-                if (player.Grid[row, col].ContainsShip)
+                if (player.Grid[row, col].IsSunk)
+                {
+                    PrintCell(SunkSymbol);
+                }
+                else if (player.Grid[row, col].ContainsShip) // this is prob an unnecessary check//&& !player.Grid[row, col].HasBeenFiredUpon)
                 {
                     PrintCell(ShipSymbol);
                 }
-                else
+                else if (player.Grid[row, col].HasBeenFiredUpon)
+                {
+                    PrintCell(MissedSymbol);
+                }
+                else 
                 {
                     PrintCell(NoShipSymbol);
                 }
@@ -235,6 +245,30 @@ With each hit and sunk ship, let the victory begin!
     public static void PrintCell(char cellSymbol)
     {
         Console.Write($" {cellSymbol} ");
+    }
+    public static void DisplayHitMessage()
+    {
+        Console.WriteLine();
+        Console.WriteLine("THAT'S A HIT!!!");
+        Console.WriteLine();
+        ConsoleUtils.WaitForKeyPress();
+    }
+    public static void DisplayMissedMessage()
+    {
+        List<string> messages = new List<string>
+        {
+            "you missed :/",
+            "you missed :/",
+            "you missed :/",
+            "you MANKED!"
+        };
+        Random random = new Random();
+        int index = random.Next(0, messages.Count);
+
+        Console.WriteLine();
+        Console.WriteLine(messages[index]);
+        Console.WriteLine();
+        ConsoleUtils.WaitForKeyPress();
     }
     public static void DisplayWonMessage(Player winner)
     {

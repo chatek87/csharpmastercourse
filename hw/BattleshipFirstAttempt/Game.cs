@@ -58,7 +58,7 @@ public class Game
             int row;
             do
             {
-                move = ConsoleUtils.GetMoveFromConsole();
+                move = ConsoleUtils.GetMoveFromConsole(CurrentPlayer);
                 col = ValidateCoordinateGetIndex(move).col;
                 row = ValidateCoordinateGetIndex(move).row;
             } while (!ValidateCoordinateGetIndex(move).isValid || CurrentOpponent.Grid[col, row].HasBeenFiredUpon);
@@ -67,7 +67,7 @@ public class Game
             //row = ValidateCoordinateGetIndex(move).row;
 
             // check if hit
-            FireShotCheckForHitOrMiss((col, row), CurrentOpponent);
+            FireShotCheckForHitOrMiss((row, col), CurrentOpponent);
 
             // check if game won
             if (CurrentOpponent.ShipsRemaining == 0)
@@ -86,24 +86,22 @@ public class Game
         // -> winner goes first next time?
     }
 
-    public void FireShotCheckForHitOrMiss((int col, int row) index, Player opponentPlayer)
+    public void FireShotCheckForHitOrMiss((int row, int col) index, Player opponentPlayer)
     {
-        opponentPlayer.Grid[index.col, index.row].HasBeenFiredUpon = true;
+        opponentPlayer.Grid[index.row, index.col].HasBeenFiredUpon = true;
         
-        if (opponentPlayer.Grid[index.col, index.row].IsSunk)
+        if (opponentPlayer.Grid[index.row, index.col].IsSunk)
         {
             opponentPlayer.ShipsRemaining--;
-            Console.WriteLine("THAT'S A HIT!!!");
-            ConsoleUtils.WaitForKeyPress();
+            ConsoleUtils.DisplayHitMessage();
         }
         else
         {
-            Console.WriteLine("you missed :/");
-            ConsoleUtils.WaitForKeyPress();
+            ConsoleUtils.DisplayMissedMessage();
         }
     }
 
-    public static (int row, int col, bool isValid) ValidateCoordinateGetIndex(string coordinate)
+    public static (int col, int row, bool isValid) ValidateCoordinateGetIndex(string coordinate)
     {
         int row = 0, col = 0;
 
@@ -117,10 +115,10 @@ public class Game
 
         if (row < 0 || row >= GridSize || col < 0 || col >= GridSize)
         {
-            return (row, col, false);
+            return (col, row, false);
         }
 
-        return (row, col, true);
+        return (col, row, true);
     }
 
     // not sure yet whether to break ValidateCoordinateGetIndex into two separate methods, 

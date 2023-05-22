@@ -1,25 +1,25 @@
 ﻿using BattleshipFirstAttempt;
 
 // test shortcut 
-Game game = new Game();
+/*Game game = new Game();
 
 game.Players[0].PlayerName = "Player A";
 game.Players[0].Grid[0, 0].ContainsShip = true; //a1
-game.Players[0].Grid[0, 1].ContainsShip = true; //a2
-game.Players[0].Grid[0, 2].ContainsShip = true; //a3
-game.Players[0].Grid[0, 3].ContainsShip = true; //a4
-game.Players[0].Grid[0, 4].ContainsShip = true; //a5
+game.Players[0].Grid[1, 0].ContainsShip = true; //a2
+game.Players[0].Grid[2, 0].ContainsShip = true; //a3
+game.Players[0].Grid[3, 0].ContainsShip = true; //a4
+game.Players[0].Grid[4, 0].ContainsShip = true; //a5
 
 game.Players[1].PlayerName = "Player B";
-game.Players[1].Grid[1, 0].ContainsShip = true; //b1
+game.Players[1].Grid[0, 1].ContainsShip = true; //b1
 game.Players[1].Grid[1, 1].ContainsShip = true; //b2
-game.Players[1].Grid[1, 2].ContainsShip = true; //b3
-game.Players[1].Grid[1, 3].ContainsShip = true; //b4
-game.Players[1].Grid[1, 4].ContainsShip = true; //b5
+game.Players[1].Grid[2, 1].ContainsShip = true; //b3
+game.Players[1].Grid[3, 1].ContainsShip = true; //b4
+game.Players[1].Grid[4, 1].ContainsShip = true; //b5
 
-game.RunGame();
+game.RunGame();*/
 
-//ConsoleUtils.DisplayWelcomeScreen();
+ConsoleUtils.DisplayWelcomeScreen();
 
 
 
