@@ -1,27 +1,57 @@
-namespace BattleshipFirstAttempt;
-
-public class Player
+namespace BattleshipFirstAttempt
 {
-    public string PlayerName { get; set; }
-    public int Score { get; set; }
-    public Cell[,] Grid { get; set; }
-
-    public Player() //initialize player, set up player's grid with default values and names
+    public class Player
     {
-        Score = 0;
+        public string PlayerName { get; set; }
 
-        Grid = new Cell[Game.GridSize, Game.GridSize];
-
-        for (int row = 0; row < Game.GridSize; row++)
+        private int shipsRemaining;
+        public int ShipsRemaining
         {
-            for (int col = 0; col < Game.GridSize; col++)
+            get { return shipsRemaining; }
+            set
             {
-                Grid[row, col] = new Cell
+                shipsRemaining = value;
+
+                int sunkenShipsCount = 0;
+
+                if (Grid != null)
                 {
-                    Name = ((char)('A' + col)).ToString() + (row + 1).ToString(),
-                    ContainsShip = false,
-                    HasBeenFiredUpon = false
-                };
+                    foreach (Cell cell in Grid)
+                    {
+                        if (cell != null && cell.ContainsShip && cell.HasBeenFiredUpon)
+                        {
+                            sunkenShipsCount++;
+                        }
+                    }
+                }
+
+                shipsRemaining = Game.NumberOfShipsPerPlayer - sunkenShipsCount;
+            }
+        }
+
+        public Cell[,] Grid { get; set; }
+
+        public Player()
+        {
+            Grid = new Cell[Game.GridSize, Game.GridSize];
+            ResetGridAndScore();
+        }
+
+        private void ResetGridAndScore()
+        {
+            ShipsRemaining = Game.NumberOfShipsPerPlayer;
+
+            for (int row = 0; row < Game.GridSize; row++)
+            {
+                for (int col = 0; col < Game.GridSize; col++)
+                {
+                    Grid[row, col] = new Cell
+                    {
+                        Name = ((char)('A' + col)).ToString() + (row + 1).ToString(),
+                        ContainsShip = false,
+                        HasBeenFiredUpon = false
+                    };
+                }
             }
         }
     }
