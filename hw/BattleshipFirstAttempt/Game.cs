@@ -30,7 +30,7 @@ public class Game
     public void RunGame()
     {
         int currentPlayerIndex = 0;
-        int opponentPlayerIndex = 0;
+        int currentOpponentIndex = 0;
         while (!isWon)  // game logic goes inside here
         {
             // get current player
@@ -39,18 +39,18 @@ public class Game
                 currentPlayerIndex = 0;
             }
             // get opponent
-            int opponentIndex = currentPlayerIndex + 1;
-            if (opponentIndex >= NumberOfPlayers)
+            currentOpponentIndex = currentPlayerIndex + 1;
+            if (currentOpponentIndex >= NumberOfPlayers)
             {
-                opponentIndex = 0;
+                currentOpponentIndex = 0;
             }
 
             var CurrentPlayer = Players[currentPlayerIndex];
-            var CurrentOpponent = Players[opponentIndex];
+            var CurrentOpponent = Players[currentOpponentIndex];
 
             // print grids, as well as scores, for current player
             Console.Clear();
-            ConsoleUtils.DisplayGameplayScreen(this, currentPlayerIndex, opponentIndex);
+            ConsoleUtils.DisplayGameplayScreen(this, currentPlayerIndex, currentOpponentIndex);
 
             // ask current for shot until valid shot is entered
             string move;
@@ -59,9 +59,9 @@ public class Game
             do
             {
                 move = ConsoleUtils.GetMoveFromConsole(CurrentPlayer);
-                col = ValidateCoordinateGetIndex(move).col;
                 row = ValidateCoordinateGetIndex(move).row;
-            } while (!ValidateCoordinateGetIndex(move).isValid || CurrentOpponent.Grid[col, row].HasBeenFiredUpon);
+                col = ValidateCoordinateGetIndex(move).col;
+            } while (!ValidateCoordinateGetIndex(move).isValid || CurrentOpponent.Grid[row, col].HasBeenFiredUpon);
 
             //col = ValidateCoordinateGetIndex(move).col;
             //row = ValidateCoordinateGetIndex(move).row;
@@ -101,7 +101,7 @@ public class Game
         }
     }
 
-    public static (int col, int row, bool isValid) ValidateCoordinateGetIndex(string coordinate)
+    public static (int row, int col, bool isValid) ValidateCoordinateGetIndex(string coordinate)
     {
         int row = 0, col = 0;
 
@@ -115,10 +115,10 @@ public class Game
 
         if (row < 0 || row >= GridSize || col < 0 || col >= GridSize)
         {
-            return (col, row, false);
+            return (row, col, false);
         }
 
-        return (col, row, true);
+        return (row, col, true);
     }
 
     // not sure yet whether to break ValidateCoordinateGetIndex into two separate methods, 
