@@ -1,0 +1,14 @@
+BattleshipLite Logic Design
+
+Clear display
+enum
+Method: asking for name
+Method: get ship placement
+Method: determine if valid spot for ship
+Storing ship info: list per user?
+Storing shot info: list per user?
+Method: print out grid
+Method: fire on opponent
+Method: determine if a shot can be taken & outcome
+Method: display score
+Method: print winner and shots taken

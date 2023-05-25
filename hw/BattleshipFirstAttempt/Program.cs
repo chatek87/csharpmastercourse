@@ -1,7 +1,7 @@
 ﻿using BattleshipFirstAttempt;
 
 // test shortcut 
-Game game = new Game();
+/*Game game = new Game();
 
 game.Players[0].PlayerName = "Player A";
 game.Players[0].Grid[0, 0].ContainsShip = true; //a1
@@ -18,8 +18,9 @@ game.Players[1].Grid[3, 1].ContainsShip = true; //b4
 game.Players[1].Grid[4, 1].ContainsShip = true; //b5
 
 game.RunGame();
+*/
 
-//ConsoleUtils.DisplayWelcomeScreen();
+ConsoleUtils.DisplayWelcomeScreen();
 
 
 
@@ -30,7 +31,7 @@ game.RunGame();
  * - the player's intended target on the opponent's grid, submitted as string via ReadLine().
  * - format for coordinate is A1, B3, etc. 
  * - analogous to a 'move'
- * - used interchangeably with 'move' in some areas of this code
+ * - used interchangeably with 'move' and 'position' in some areas of this code
  * 
  * 'index'
  * - the validated (int, int) grid position, which can then be checked for Hit or Miss

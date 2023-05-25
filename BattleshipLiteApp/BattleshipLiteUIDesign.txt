@@ -1,0 +1,27 @@
+BattleshipLite UI Design
+
+Welcome message
+Ask user 1 for their name
+ask user 1 for their 5 ship placements
+	ask for placement
+	determine if it is a valid spot
+	store
+	clear
+Ask user 2 for their name
+ask user 2 for their 5 ship placements
+	ask for placement
+	determine if it is a valid spot
+	store
+	clear
+Display grid of where user 1 has fired
+Ask user 1: Where would you like to fire on?
+	verify a valid spot
+	check results
+	store shot
+	clear
+Display the score (user 1: 2 ships left, user 2: 4 ships left, for example)
+Repeat with user 2
+Loop until someone wins
+Print out Winner's name and number of shots takesn
+Wait for the user to say they are done
+Exit
