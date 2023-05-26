@@ -5,12 +5,15 @@ namespace BattleshipLite;
 
 class Program
 {
+    public static readonly ConsoleColor defaultForegroundColor = ConsoleColor.White;
+    
     static void Main(string[] args)
     {
+
         WelcomeMessage();
 
-        PlayerInfoModel activePlayer = CreatePlayer("Player 1");
-        PlayerInfoModel opponent = CreatePlayer("Player 2");
+        PlayerInfoModel activePlayer = CreatePlayer("Player 1", ConsoleColor.Red);
+        PlayerInfoModel opponent = CreatePlayer("Player 2", ConsoleColor.Blue);
         PlayerInfoModel winner = null;
 
         do
@@ -28,8 +31,8 @@ class Program
 
                 // Swap using a temp variable
                 /*PlayerInfoModel tempHolder = opponent;
-                opponent = activePlayer;
-                activePlayer = tempHolder;*/
+                opponent = player;
+                player = tempHolder;*/
             }
             else
             {
@@ -57,9 +60,17 @@ class Program
 
         do
         {
-            string shot = AskForShot();
-            (row, column) = GameLogic.SplitShotIntoRowAndColumn(shot);
-            isValidShot = GameLogic.ValidateShot(activePlayer, row, column);
+            string shot = AskForShot(activePlayer);
+            try
+            {
+                (row, column) = GameLogic.SplitShotIntoRowAndColumn(shot);
+                isValidShot = GameLogic.ValidateShot(activePlayer, row, column);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error: {ex.Message}");
+                isValidShot = false;
+            }
 
             if (isValidShot == false)
             {
@@ -70,17 +81,35 @@ class Program
         bool isAHit = GameLogic.IdentifyShotResult(opponent, row, column);
 
         GameLogic.MarkShotResult(activePlayer, row, column, isAHit);
+
+        DisplayShotResults(row, column, isAHit);
     }
 
-    private static string AskForShot()
+    private static void DisplayShotResults(string row, int column, bool isAHit)
     {
-        Console.Write("Please enter your shot selection: ");
+        if (isAHit)
+        {
+            Console.WriteLine($"{row}{column} is a Hit!");
+        }
+        else
+        {
+            Console.WriteLine($"{row}{column} is a miss.");
+        }
+
+        Console.WriteLine();
+    }
+
+    private static string AskForShot(PlayerInfoModel player)
+    {
+        Console.Write($"{player.UsersName}, please enter your shot selection: ");
         string output = Console.ReadLine();
         return output;
     }
 
     private static void DisplayShotGrid(PlayerInfoModel activePlayer)
     {
+        Console.ForegroundColor = activePlayer.UsersGridColor;
+
         string currentRow = activePlayer.ShotGrid[0].SpotLetter;
 
         foreach (var gridSpot in activePlayer.ShotGrid) 
@@ -97,17 +126,22 @@ class Program
             }
             else if (gridSpot.Status == GridSpotStatus.Hit)
             {
-                Console.Write(" X ");
+                Console.Write(" X  ");
             }
             else if (gridSpot.Status == GridSpotStatus.Miss)
             {
-                Console.Write(" O ");
+                Console.Write(" O  ");
             }
             else
             {
-                Console.Write(" ? ");
+                Console.Write(" ?  ");
             }
         }
+        //Console.ForegroundColor = defaultForegroundColor;
+        Console.ForegroundColor = defaultForegroundColor;
+
+        Console.WriteLine();
+        Console.WriteLine();
     }
 
     private static void WelcomeMessage()
@@ -117,11 +151,13 @@ class Program
         Console.WriteLine();
     }
 
-    private static PlayerInfoModel CreatePlayer(string playerTitle)
+    private static PlayerInfoModel CreatePlayer(string playerTitle, ConsoleColor playerColor)
     {
         PlayerInfoModel output = new PlayerInfoModel();
 
-        Console.WriteLine($"Player information for { playerTitle }");
+        output.UsersGridColor = playerColor;
+
+        Console.WriteLine($"Player information for {playerTitle}");
 
         // Ask the user for their name
         output.UsersName = AskForUsersName();
@@ -153,7 +189,16 @@ class Program
             Console.Write($"Where do you want to place ship number {model.ShipLocations.Count + 1}: ");
             string location = Console.ReadLine();
 
-            bool isValidLocation = GameLogic.PlaceShip(model, location);
+            bool isValidLocation = false;
+
+            try
+            {
+                isValidLocation = GameLogic.PlaceShip(model, location);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error: {ex.Message}");
+            }
 
             if (isValidLocation == false)
             {
