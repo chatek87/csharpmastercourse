@@ -1,0 +1,15 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_InheritanceDemo\bin\Debug\net7.0\hw_InheritanceDemo.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_InheritanceDemo\bin\Debug\net7.0\hw_InheritanceDemo.deps.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_InheritanceDemo\bin\Debug\net7.0\hw_InheritanceDemo.runtimeconfig.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_InheritanceDemo\bin\Debug\net7.0\hw_InheritanceDemo.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_InheritanceDemo\bin\Debug\net7.0\hw_InheritanceDemo.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_InheritanceDemo\obj\Debug\net7.0\hw_InheritanceDemo.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_InheritanceDemo\obj\Debug\net7.0\hw_InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_InheritanceDemo\obj\Debug\net7.0\hw_InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_InheritanceDemo\obj\Debug\net7.0\hw_InheritanceDemo.AssemblyInfo.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_InheritanceDemo\obj\Debug\net7.0\hw_InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_InheritanceDemo\obj\Debug\net7.0\hw_InheritanceDemo.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_InheritanceDemo\obj\Debug\net7.0\refint\hw_InheritanceDemo.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_InheritanceDemo\obj\Debug\net7.0\hw_InheritanceDemo.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_InheritanceDemo\obj\Debug\net7.0\hw_InheritanceDemo.genruntimeconfig.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_InheritanceDemo\obj\Debug\net7.0\ref\hw_InheritanceDemo.dll
