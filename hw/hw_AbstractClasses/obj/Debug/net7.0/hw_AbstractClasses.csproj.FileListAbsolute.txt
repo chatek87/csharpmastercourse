@@ -1,0 +1,15 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_AbstractClasses\bin\Debug\net7.0\hw_AbstractClasses.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_AbstractClasses\bin\Debug\net7.0\hw_AbstractClasses.deps.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_AbstractClasses\bin\Debug\net7.0\hw_AbstractClasses.runtimeconfig.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_AbstractClasses\bin\Debug\net7.0\hw_AbstractClasses.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_AbstractClasses\bin\Debug\net7.0\hw_AbstractClasses.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_AbstractClasses\obj\Debug\net7.0\hw_AbstractClasses.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_AbstractClasses\obj\Debug\net7.0\hw_AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_AbstractClasses\obj\Debug\net7.0\hw_AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_AbstractClasses\obj\Debug\net7.0\hw_AbstractClasses.AssemblyInfo.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_AbstractClasses\obj\Debug\net7.0\hw_AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_AbstractClasses\obj\Debug\net7.0\hw_AbstractClasses.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_AbstractClasses\obj\Debug\net7.0\refint\hw_AbstractClasses.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_AbstractClasses\obj\Debug\net7.0\hw_AbstractClasses.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_AbstractClasses\obj\Debug\net7.0\hw_AbstractClasses.genruntimeconfig.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_AbstractClasses\obj\Debug\net7.0\ref\hw_AbstractClasses.dll

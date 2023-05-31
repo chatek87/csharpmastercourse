@@ -1,0 +1,15 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_CardGameMiniProject\bin\Debug\net7.0\hw_CardGameMiniProject.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_CardGameMiniProject\bin\Debug\net7.0\hw_CardGameMiniProject.deps.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_CardGameMiniProject\bin\Debug\net7.0\hw_CardGameMiniProject.runtimeconfig.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_CardGameMiniProject\bin\Debug\net7.0\hw_CardGameMiniProject.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_CardGameMiniProject\bin\Debug\net7.0\hw_CardGameMiniProject.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_CardGameMiniProject\obj\Debug\net7.0\hw_CardGameMiniProject.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_CardGameMiniProject\obj\Debug\net7.0\hw_CardGameMiniProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_CardGameMiniProject\obj\Debug\net7.0\hw_CardGameMiniProject.AssemblyInfoInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_CardGameMiniProject\obj\Debug\net7.0\hw_CardGameMiniProject.AssemblyInfo.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_CardGameMiniProject\obj\Debug\net7.0\hw_CardGameMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_CardGameMiniProject\obj\Debug\net7.0\hw_CardGameMiniProject.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_CardGameMiniProject\obj\Debug\net7.0\refint\hw_CardGameMiniProject.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_CardGameMiniProject\obj\Debug\net7.0\hw_CardGameMiniProject.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_CardGameMiniProject\obj\Debug\net7.0\hw_CardGameMiniProject.genruntimeconfig.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_CardGameMiniProject\obj\Debug\net7.0\ref\hw_CardGameMiniProject.dll

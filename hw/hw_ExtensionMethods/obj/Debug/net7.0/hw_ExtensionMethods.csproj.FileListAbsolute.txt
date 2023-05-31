@@ -1,0 +1,15 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethods\bin\Debug\net7.0\hw_ExtensionMethods.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethods\bin\Debug\net7.0\hw_ExtensionMethods.deps.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethods\bin\Debug\net7.0\hw_ExtensionMethods.runtimeconfig.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethods\bin\Debug\net7.0\hw_ExtensionMethods.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethods\bin\Debug\net7.0\hw_ExtensionMethods.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethods\obj\Debug\net7.0\hw_ExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethods\obj\Debug\net7.0\hw_ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethods\obj\Debug\net7.0\hw_ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethods\obj\Debug\net7.0\hw_ExtensionMethods.AssemblyInfo.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethods\obj\Debug\net7.0\hw_ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethods\obj\Debug\net7.0\hw_ExtensionMethods.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethods\obj\Debug\net7.0\refint\hw_ExtensionMethods.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethods\obj\Debug\net7.0\hw_ExtensionMethods.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethods\obj\Debug\net7.0\hw_ExtensionMethods.genruntimeconfig.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethods\obj\Debug\net7.0\ref\hw_ExtensionMethods.dll

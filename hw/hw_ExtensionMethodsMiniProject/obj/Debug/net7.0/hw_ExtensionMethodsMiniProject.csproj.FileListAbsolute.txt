@@ -1,0 +1,15 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethodsMiniProject\bin\Debug\net7.0\hw_ExtensionMethodsMiniProject.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethodsMiniProject\bin\Debug\net7.0\hw_ExtensionMethodsMiniProject.deps.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethodsMiniProject\bin\Debug\net7.0\hw_ExtensionMethodsMiniProject.runtimeconfig.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethodsMiniProject\bin\Debug\net7.0\hw_ExtensionMethodsMiniProject.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethodsMiniProject\bin\Debug\net7.0\hw_ExtensionMethodsMiniProject.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethodsMiniProject\obj\Debug\net7.0\hw_ExtensionMethodsMiniProject.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethodsMiniProject\obj\Debug\net7.0\hw_ExtensionMethodsMiniProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethodsMiniProject\obj\Debug\net7.0\hw_ExtensionMethodsMiniProject.AssemblyInfoInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethodsMiniProject\obj\Debug\net7.0\hw_ExtensionMethodsMiniProject.AssemblyInfo.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethodsMiniProject\obj\Debug\net7.0\hw_ExtensionMethodsMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethodsMiniProject\obj\Debug\net7.0\hw_ExtensionMethodsMiniProject.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethodsMiniProject\obj\Debug\net7.0\refint\hw_ExtensionMethodsMiniProject.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethodsMiniProject\obj\Debug\net7.0\hw_ExtensionMethodsMiniProject.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethodsMiniProject\obj\Debug\net7.0\hw_ExtensionMethodsMiniProject.genruntimeconfig.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_ExtensionMethodsMiniProject\obj\Debug\net7.0\ref\hw_ExtensionMethodsMiniProject.dll

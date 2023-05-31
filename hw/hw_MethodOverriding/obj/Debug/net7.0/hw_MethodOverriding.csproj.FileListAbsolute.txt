@@ -1,0 +1,15 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_MethodOverriding\bin\Debug\net7.0\hw_MethodOverriding.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_MethodOverriding\bin\Debug\net7.0\hw_MethodOverriding.deps.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_MethodOverriding\bin\Debug\net7.0\hw_MethodOverriding.runtimeconfig.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_MethodOverriding\bin\Debug\net7.0\hw_MethodOverriding.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_MethodOverriding\bin\Debug\net7.0\hw_MethodOverriding.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_MethodOverriding\obj\Debug\net7.0\hw_MethodOverriding.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_MethodOverriding\obj\Debug\net7.0\hw_MethodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_MethodOverriding\obj\Debug\net7.0\hw_MethodOverriding.AssemblyInfoInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_MethodOverriding\obj\Debug\net7.0\hw_MethodOverriding.AssemblyInfo.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_MethodOverriding\obj\Debug\net7.0\hw_MethodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_MethodOverriding\obj\Debug\net7.0\hw_MethodOverriding.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_MethodOverriding\obj\Debug\net7.0\refint\hw_MethodOverriding.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_MethodOverriding\obj\Debug\net7.0\hw_MethodOverriding.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_MethodOverriding\obj\Debug\net7.0\hw_MethodOverriding.genruntimeconfig.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\hw_MethodOverriding\obj\Debug\net7.0\ref\hw_MethodOverriding.dll
