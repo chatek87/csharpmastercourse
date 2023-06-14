@@ -1,0 +1,15 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_GenericsDemo\bin\Debug\net7.0\Lesson_GenericsDemo.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_GenericsDemo\bin\Debug\net7.0\Lesson_GenericsDemo.deps.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_GenericsDemo\bin\Debug\net7.0\Lesson_GenericsDemo.runtimeconfig.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_GenericsDemo\bin\Debug\net7.0\Lesson_GenericsDemo.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_GenericsDemo\bin\Debug\net7.0\Lesson_GenericsDemo.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_GenericsDemo\obj\Debug\net7.0\Lesson_GenericsDemo.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_GenericsDemo\obj\Debug\net7.0\Lesson_GenericsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_GenericsDemo\obj\Debug\net7.0\Lesson_GenericsDemo.AssemblyInfoInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_GenericsDemo\obj\Debug\net7.0\Lesson_GenericsDemo.AssemblyInfo.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_GenericsDemo\obj\Debug\net7.0\Lesson_GenericsDemo.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_GenericsDemo\obj\Debug\net7.0\Lesson_GenericsDemo.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_GenericsDemo\obj\Debug\net7.0\refint\Lesson_GenericsDemo.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_GenericsDemo\obj\Debug\net7.0\Lesson_GenericsDemo.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_GenericsDemo\obj\Debug\net7.0\Lesson_GenericsDemo.genruntimeconfig.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_GenericsDemo\obj\Debug\net7.0\ref\Lesson_GenericsDemo.dll

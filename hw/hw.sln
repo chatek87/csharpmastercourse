@@ -57,13 +57,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hw_CardGameMiniProject", "h
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hw_MethodOverloading", "hw_MethodOverloading\hw_MethodOverloading.csproj", "{9275CC36-C96E-431C-B9A1-3C941243965B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_ExtensionMethodsDemo", "Lesson_ExtensionMethodsDemo\Lesson_ExtensionMethodsDemo.csproj", "{1A73B50A-88BE-4030-9B84-74DE0759FF5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_ExtensionMethodsDemo", "Lesson_ExtensionMethodsDemo\Lesson_ExtensionMethodsDemo.csproj", "{1A73B50A-88BE-4030-9B84-74DE0759FF5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw_ExtensionMethods", "hw_ExtensionMethods\hw_ExtensionMethods.csproj", "{8E15369C-ADCA-4606-87A5-AFE35A21FDBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hw_ExtensionMethods", "hw_ExtensionMethods\hw_ExtensionMethods.csproj", "{8E15369C-ADCA-4606-87A5-AFE35A21FDBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw_ExtensionMethodsMiniProject", "hw_ExtensionMethodsMiniProject\hw_ExtensionMethodsMiniProject.csproj", "{423AF252-A98D-4485-AFED-DBF8511771A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hw_ExtensionMethodsMiniProject", "hw_ExtensionMethodsMiniProject\hw_ExtensionMethodsMiniProject.csproj", "{423AF252-A98D-4485-AFED-DBF8511771A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw_ExtensionMethods2", "hw_ExtensionMethods2\hw_ExtensionMethods2.csproj", "{10E25713-06BC-4284-B258-39CC1A3B6797}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hw_ExtensionMethods2", "hw_ExtensionMethods2\hw_ExtensionMethods2.csproj", "{10E25713-06BC-4284-B258-39CC1A3B6797}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_GenericsDemo", "Lesson_GenericsDemo\Lesson_GenericsDemo.csproj", "{1A1F2250-5378-46F0-B2EE-FC913A0928AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hw_Generics", "hw_Generics\hw_Generics.csproj", "{6D4322D7-12EE-4F6E-9659-C1CDB24053FE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_Events", "Lesson_Events\Lesson_Events.csproj", "{8AE59F22-1744-44D5-9581-C3E3854DFCD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw_Events", "hw_Events\hw_Events.csproj", "{2D98BB16-D541-4B3B-AD8E-C0DC4B9958C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +203,22 @@ Global
 		{10E25713-06BC-4284-B258-39CC1A3B6797}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10E25713-06BC-4284-B258-39CC1A3B6797}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10E25713-06BC-4284-B258-39CC1A3B6797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A1F2250-5378-46F0-B2EE-FC913A0928AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1F2250-5378-46F0-B2EE-FC913A0928AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1F2250-5378-46F0-B2EE-FC913A0928AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1F2250-5378-46F0-B2EE-FC913A0928AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D4322D7-12EE-4F6E-9659-C1CDB24053FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D4322D7-12EE-4F6E-9659-C1CDB24053FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D4322D7-12EE-4F6E-9659-C1CDB24053FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D4322D7-12EE-4F6E-9659-C1CDB24053FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE59F22-1744-44D5-9581-C3E3854DFCD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE59F22-1744-44D5-9581-C3E3854DFCD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE59F22-1744-44D5-9581-C3E3854DFCD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE59F22-1744-44D5-9581-C3E3854DFCD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D98BB16-D541-4B3B-AD8E-C0DC4B9958C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D98BB16-D541-4B3B-AD8E-C0DC4B9958C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D98BB16-D541-4B3B-AD8E-C0DC4B9958C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D98BB16-D541-4B3B-AD8E-C0DC4B9958C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_Events\bin\Debug\net7.0\Lesson_Events.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_Events\bin\Debug\net7.0\Lesson_Events.deps.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_Events\bin\Debug\net7.0\Lesson_Events.runtimeconfig.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_Events\bin\Debug\net7.0\Lesson_Events.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_Events\bin\Debug\net7.0\Lesson_Events.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_Events\obj\Debug\net7.0\Lesson_Events.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_Events\obj\Debug\net7.0\Lesson_Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_Events\obj\Debug\net7.0\Lesson_Events.AssemblyInfoInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_Events\obj\Debug\net7.0\Lesson_Events.AssemblyInfo.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_Events\obj\Debug\net7.0\Lesson_Events.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_Events\obj\Debug\net7.0\Lesson_Events.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_Events\obj\Debug\net7.0\refint\Lesson_Events.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_Events\obj\Debug\net7.0\Lesson_Events.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_Events\obj\Debug\net7.0\Lesson_Events.genruntimeconfig.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_Events\obj\Debug\net7.0\ref\Lesson_Events.dll

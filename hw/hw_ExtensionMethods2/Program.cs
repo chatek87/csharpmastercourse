@@ -4,6 +4,10 @@ internal class Program
 {
     static void Main(string[] args)
     {
+        PersonModel person = new PersonModel();
+
+        person.Age = "What is your age: ".RequestInt();
+        person.AccountBalance = "What is your account balance: ".RequestDecimal();
 
         Console.ReadLine();
     }
@@ -14,12 +18,26 @@ public class PersonModel
     public string FirstName { get; set; }
     public string LastName { get; set; }
     public int Age { get; set; }
+    public decimal AccountBalance { get; set; }
     public string FavoriteAlbum { get; set; }
-
 }
 
 public static class ConsoleHelper
 {
+    public static decimal RequestDecimal(this string message)
+    {
+        bool isValidDecimal = false;
+        decimal output = 0;
+
+        while (!isValidDecimal)
+        {
+            Console.Write(message);
+            decimal.TryParse(Console.ReadLine(), out output);
+        }
+
+        return output;
+    }
+
     public static string RequestString(this string message)
     {
         string output = "";
@@ -37,12 +55,10 @@ public static class ConsoleHelper
     {
         return RequestInt(message, false);
     }
-
     public static int RequestInt(this string message, int minValue, int maxValue)
     {
         return RequestInt(message, true, minValue, maxValue);
     }
-
     private static int RequestInt(this string message, bool useMinMax, int minValue = 0, int maxValue = 0)
     {
         bool isInValidRange = true;
@@ -70,4 +86,5 @@ public static class ConsoleHelper
 
         return output;
     }
+
 }
