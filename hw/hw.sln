@@ -71,7 +71,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hw_Generics", "hw_Generics\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_Events", "Lesson_Events\Lesson_Events.csproj", "{8AE59F22-1744-44D5-9581-C3E3854DFCD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw_Events", "hw_Events\hw_Events.csproj", "{2D98BB16-D541-4B3B-AD8E-C0DC4B9958C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hw_Events", "hw_Events\hw_Events.csproj", "{2D98BB16-D541-4B3B-AD8E-C0DC4B9958C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_WrapUpDemo", "WrapUpDemo\Lesson_WrapUpDemo.csproj", "{43AB225B-6D3B-4001-8CA4-02D2D85667F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw_WrapUpDemo", "hw_WrapUpDemo\hw_WrapUpDemo.csproj", "{D88E2FCD-E980-413C-8160-FDF3C6596CCE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +223,14 @@ Global
 		{2D98BB16-D541-4B3B-AD8E-C0DC4B9958C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D98BB16-D541-4B3B-AD8E-C0DC4B9958C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D98BB16-D541-4B3B-AD8E-C0DC4B9958C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43AB225B-6D3B-4001-8CA4-02D2D85667F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43AB225B-6D3B-4001-8CA4-02D2D85667F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43AB225B-6D3B-4001-8CA4-02D2D85667F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43AB225B-6D3B-4001-8CA4-02D2D85667F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D88E2FCD-E980-413C-8160-FDF3C6596CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88E2FCD-E980-413C-8160-FDF3C6596CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88E2FCD-E980-413C-8160-FDF3C6596CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88E2FCD-E980-413C-8160-FDF3C6596CCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

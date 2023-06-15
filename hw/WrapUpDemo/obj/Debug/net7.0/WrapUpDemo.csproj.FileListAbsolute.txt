@@ -1,0 +1,15 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\WrapUpDemo\bin\Debug\net7.0\WrapUpDemo.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\WrapUpDemo\bin\Debug\net7.0\WrapUpDemo.deps.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\WrapUpDemo\bin\Debug\net7.0\WrapUpDemo.runtimeconfig.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\WrapUpDemo\bin\Debug\net7.0\WrapUpDemo.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\WrapUpDemo\bin\Debug\net7.0\WrapUpDemo.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\WrapUpDemo\obj\Debug\net7.0\WrapUpDemo.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\WrapUpDemo\obj\Debug\net7.0\WrapUpDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\WrapUpDemo\obj\Debug\net7.0\WrapUpDemo.AssemblyInfoInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\WrapUpDemo\obj\Debug\net7.0\WrapUpDemo.AssemblyInfo.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\WrapUpDemo\obj\Debug\net7.0\WrapUpDemo.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\WrapUpDemo\obj\Debug\net7.0\WrapUpDemo.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\WrapUpDemo\obj\Debug\net7.0\refint\WrapUpDemo.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\WrapUpDemo\obj\Debug\net7.0\WrapUpDemo.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\WrapUpDemo\obj\Debug\net7.0\WrapUpDemo.genruntimeconfig.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\WrapUpDemo\obj\Debug\net7.0\ref\WrapUpDemo.dll
