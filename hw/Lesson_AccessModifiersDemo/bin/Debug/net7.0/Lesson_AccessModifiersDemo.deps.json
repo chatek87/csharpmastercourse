@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lesson_AccessModifiersDemo/1.0.0": {
+        "dependencies": {
+          "Lesson_AccessModifiersDemoLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Lesson_AccessModifiersDemo.dll": {}
+        }
+      },
+      "Lesson_AccessModifiersDemoLibrary/1.0.0": {
+        "runtime": {
+          "Lesson_AccessModifiersDemoLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson_AccessModifiersDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lesson_AccessModifiersDemoLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

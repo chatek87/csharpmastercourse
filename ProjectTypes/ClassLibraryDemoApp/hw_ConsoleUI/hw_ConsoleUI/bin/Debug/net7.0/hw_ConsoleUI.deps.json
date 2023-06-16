@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "hw_ConsoleUI/1.0.0": {
+        "dependencies": {
+          "hw_ClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "hw_ConsoleUI.dll": {}
+        }
+      },
+      "hw_ClassLibrary/1.0.0": {
+        "runtime": {
+          "hw_ClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hw_ConsoleUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "hw_ClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

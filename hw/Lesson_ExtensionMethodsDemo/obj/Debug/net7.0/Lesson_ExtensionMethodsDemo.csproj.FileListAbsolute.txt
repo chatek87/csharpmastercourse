@@ -1,0 +1,15 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_ExtensionMethodsDemo\bin\Debug\net7.0\Lesson_ExtensionMethodsDemo.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_ExtensionMethodsDemo\bin\Debug\net7.0\Lesson_ExtensionMethodsDemo.deps.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_ExtensionMethodsDemo\bin\Debug\net7.0\Lesson_ExtensionMethodsDemo.runtimeconfig.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_ExtensionMethodsDemo\bin\Debug\net7.0\Lesson_ExtensionMethodsDemo.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_ExtensionMethodsDemo\bin\Debug\net7.0\Lesson_ExtensionMethodsDemo.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_ExtensionMethodsDemo\obj\Debug\net7.0\Lesson_ExtensionMethodsDemo.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_ExtensionMethodsDemo\obj\Debug\net7.0\Lesson_ExtensionMethodsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_ExtensionMethodsDemo\obj\Debug\net7.0\Lesson_ExtensionMethodsDemo.AssemblyInfoInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_ExtensionMethodsDemo\obj\Debug\net7.0\Lesson_ExtensionMethodsDemo.AssemblyInfo.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_ExtensionMethodsDemo\obj\Debug\net7.0\Lesson_ExtensionMethodsDemo.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_ExtensionMethodsDemo\obj\Debug\net7.0\Lesson_ExtensionMethodsDemo.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_ExtensionMethodsDemo\obj\Debug\net7.0\refint\Lesson_ExtensionMethodsDemo.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_ExtensionMethodsDemo\obj\Debug\net7.0\Lesson_ExtensionMethodsDemo.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_ExtensionMethodsDemo\obj\Debug\net7.0\Lesson_ExtensionMethodsDemo.genruntimeconfig.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_ExtensionMethodsDemo\obj\Debug\net7.0\ref\Lesson_ExtensionMethodsDemo.dll

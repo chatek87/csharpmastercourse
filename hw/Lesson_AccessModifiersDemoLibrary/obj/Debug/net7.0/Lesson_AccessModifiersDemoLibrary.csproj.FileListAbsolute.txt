@@ -1,0 +1,12 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_AccessModifiersDemoLibrary\bin\Debug\net7.0\Lesson_AccessModifiersDemoLibrary.deps.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_AccessModifiersDemoLibrary\bin\Debug\net7.0\Lesson_AccessModifiersDemoLibrary.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_AccessModifiersDemoLibrary\bin\Debug\net7.0\Lesson_AccessModifiersDemoLibrary.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_AccessModifiersDemoLibrary\obj\Debug\net7.0\Lesson_AccessModifiersDemoLibrary.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_AccessModifiersDemoLibrary\obj\Debug\net7.0\Lesson_AccessModifiersDemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_AccessModifiersDemoLibrary\obj\Debug\net7.0\Lesson_AccessModifiersDemoLibrary.AssemblyInfoInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_AccessModifiersDemoLibrary\obj\Debug\net7.0\Lesson_AccessModifiersDemoLibrary.AssemblyInfo.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_AccessModifiersDemoLibrary\obj\Debug\net7.0\Lesson_AccessModifiersDemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_AccessModifiersDemoLibrary\obj\Debug\net7.0\Lesson_AccessModifiersDemoLibrary.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_AccessModifiersDemoLibrary\obj\Debug\net7.0\refint\Lesson_AccessModifiersDemoLibrary.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_AccessModifiersDemoLibrary\obj\Debug\net7.0\Lesson_AccessModifiersDemoLibrary.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_AccessModifiersDemoLibrary\obj\Debug\net7.0\ref\Lesson_AccessModifiersDemoLibrary.dll

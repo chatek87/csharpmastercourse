@@ -1,0 +1,15 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_InterfaceDemo\bin\Debug\net7.0\Lesson_InterfaceDemo.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_InterfaceDemo\bin\Debug\net7.0\Lesson_InterfaceDemo.deps.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_InterfaceDemo\bin\Debug\net7.0\Lesson_InterfaceDemo.runtimeconfig.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_InterfaceDemo\bin\Debug\net7.0\Lesson_InterfaceDemo.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_InterfaceDemo\bin\Debug\net7.0\Lesson_InterfaceDemo.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_InterfaceDemo\obj\Debug\net7.0\Lesson_InterfaceDemo.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_InterfaceDemo\obj\Debug\net7.0\Lesson_InterfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_InterfaceDemo\obj\Debug\net7.0\Lesson_InterfaceDemo.AssemblyInfoInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_InterfaceDemo\obj\Debug\net7.0\Lesson_InterfaceDemo.AssemblyInfo.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_InterfaceDemo\obj\Debug\net7.0\Lesson_InterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_InterfaceDemo\obj\Debug\net7.0\Lesson_InterfaceDemo.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_InterfaceDemo\obj\Debug\net7.0\refint\Lesson_InterfaceDemo.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_InterfaceDemo\obj\Debug\net7.0\Lesson_InterfaceDemo.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_InterfaceDemo\obj\Debug\net7.0\Lesson_InterfaceDemo.genruntimeconfig.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\hw\Lesson_InterfaceDemo\obj\Debug\net7.0\ref\Lesson_InterfaceDemo.dll

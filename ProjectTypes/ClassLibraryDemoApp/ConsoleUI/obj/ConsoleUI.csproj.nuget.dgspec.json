@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\ClassLibraryDemoApp\\ConsoleUI\\ConsoleUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\ClassLibraryDemoApp\\ConsoleUI\\ConsoleUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\ClassLibraryDemoApp\\ConsoleUI\\ConsoleUI.csproj",
+        "projectName": "ConsoleUI",
+        "projectPath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\ClassLibraryDemoApp\\ConsoleUI\\ConsoleUI.csproj",
+        "packagesPath": "C:\\Users\\charl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\ClassLibraryDemoApp\\ConsoleUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\charl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\ClassLibraryDemoApp\\DotNetLibrary\\DotNetLibrary.csproj": {
+                "projectPath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\ClassLibraryDemoApp\\DotNetLibrary\\DotNetLibrary.csproj"
+              },
+              "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\ClassLibraryDemoApp\\FrameworkLibrary\\FrameworkLibrary.csproj": {
+                "projectPath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\ClassLibraryDemoApp\\FrameworkLibrary\\FrameworkLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\ClassLibraryDemoApp\\DotNetLibrary\\DotNetLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\ClassLibraryDemoApp\\DotNetLibrary\\DotNetLibrary.csproj",
+        "projectName": "DotNetLibrary",
+        "projectPath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\ClassLibraryDemoApp\\DotNetLibrary\\DotNetLibrary.csproj",
+        "packagesPath": "C:\\Users\\charl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\ClassLibraryDemoApp\\DotNetLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\charl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\ClassLibraryDemoApp\\FrameworkLibrary\\FrameworkLibrary.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\ClassLibraryDemoApp\\FrameworkLibrary\\FrameworkLibrary.csproj",
+        "projectName": "FrameworkLibrary",
+        "projectPath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\ClassLibraryDemoApp\\FrameworkLibrary\\FrameworkLibrary.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

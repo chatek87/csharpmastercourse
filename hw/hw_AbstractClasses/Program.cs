@@ -20,7 +20,7 @@ class Program
         xylophone.TypeOfSticks = StickTypes.Metal;
         //drumSet.NumberOfDrums = 25;
 
-        trumpet.PlayChord();
+        //trumpet.PlayChord();
         trumpet.PlayRaspberry();
 
         Console.ReadLine();

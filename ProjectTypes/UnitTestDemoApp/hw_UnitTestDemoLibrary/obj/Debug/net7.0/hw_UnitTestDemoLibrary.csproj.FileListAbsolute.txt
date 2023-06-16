@@ -1,0 +1,12 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\UnitTestDemoApp\hw_UnitTestDemoLibrary\bin\Debug\net7.0\hw_UnitTestDemoLibrary.deps.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\UnitTestDemoApp\hw_UnitTestDemoLibrary\bin\Debug\net7.0\hw_UnitTestDemoLibrary.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\UnitTestDemoApp\hw_UnitTestDemoLibrary\bin\Debug\net7.0\hw_UnitTestDemoLibrary.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\UnitTestDemoApp\hw_UnitTestDemoLibrary\obj\Debug\net7.0\hw_UnitTestDemoLibrary.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\UnitTestDemoApp\hw_UnitTestDemoLibrary\obj\Debug\net7.0\hw_UnitTestDemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\UnitTestDemoApp\hw_UnitTestDemoLibrary\obj\Debug\net7.0\hw_UnitTestDemoLibrary.AssemblyInfoInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\UnitTestDemoApp\hw_UnitTestDemoLibrary\obj\Debug\net7.0\hw_UnitTestDemoLibrary.AssemblyInfo.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\UnitTestDemoApp\hw_UnitTestDemoLibrary\obj\Debug\net7.0\hw_UnitTestDemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\UnitTestDemoApp\hw_UnitTestDemoLibrary\obj\Debug\net7.0\hw_UnitTestDemoLibrary.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\UnitTestDemoApp\hw_UnitTestDemoLibrary\obj\Debug\net7.0\refint\hw_UnitTestDemoLibrary.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\UnitTestDemoApp\hw_UnitTestDemoLibrary\obj\Debug\net7.0\hw_UnitTestDemoLibrary.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\UnitTestDemoApp\hw_UnitTestDemoLibrary\obj\Debug\net7.0\ref\hw_UnitTestDemoLibrary.dll

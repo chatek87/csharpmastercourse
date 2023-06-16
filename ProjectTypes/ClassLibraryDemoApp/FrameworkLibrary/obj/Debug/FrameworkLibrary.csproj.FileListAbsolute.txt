@@ -1,0 +1,6 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ClassLibraryDemoApp\FrameworkLibrary\bin\Debug\FrameworkLibrary.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ClassLibraryDemoApp\FrameworkLibrary\bin\Debug\FrameworkLibrary.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ClassLibraryDemoApp\FrameworkLibrary\obj\Debug\FrameworkLibrary.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ClassLibraryDemoApp\FrameworkLibrary\obj\Debug\FrameworkLibrary.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ClassLibraryDemoApp\FrameworkLibrary\obj\Debug\FrameworkLibrary.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ClassLibraryDemoApp\FrameworkLibrary\obj\Debug\FrameworkLibrary.pdb
