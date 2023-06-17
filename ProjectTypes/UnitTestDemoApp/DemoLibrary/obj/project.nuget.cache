@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uFxRGaKYue+eZ8jdwQGBDQAqibCArikJqh2Zn6BCgCQ4ZZcvcmVPDgGIjkXKdUClr/2FCRPrC2YvHnSP8XFhYQ==",
+  "dgSpecHash": "DF/KkOhKqUMhyemKqBLoaLIgsWTxL1tkKHD/bD12cCPTSxsZ6CJJYV6husthpQLvdw9vFrkEdY4JmO7npcE7XA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\UnitTestDemoApp\\DemoLibrary\\DemoLibrary.csproj",
+  "projectFilePath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\ProjectTypes\\UnitTestDemoApp\\DemoLibrary\\DemoLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

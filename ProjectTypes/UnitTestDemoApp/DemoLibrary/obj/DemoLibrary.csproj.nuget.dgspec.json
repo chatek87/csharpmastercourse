@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\UnitTestDemoApp\\DemoLibrary\\DemoLibrary.csproj": {}
+    "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\ProjectTypes\\UnitTestDemoApp\\DemoLibrary\\DemoLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\UnitTestDemoApp\\DemoLibrary\\DemoLibrary.csproj": {
+    "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\ProjectTypes\\UnitTestDemoApp\\DemoLibrary\\DemoLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\UnitTestDemoApp\\DemoLibrary\\DemoLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\ProjectTypes\\UnitTestDemoApp\\DemoLibrary\\DemoLibrary.csproj",
         "projectName": "DemoLibrary",
-        "projectPath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\UnitTestDemoApp\\DemoLibrary\\DemoLibrary.csproj",
+        "projectPath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\ProjectTypes\\UnitTestDemoApp\\DemoLibrary\\DemoLibrary.csproj",
         "packagesPath": "C:\\Users\\charl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\UnitTestDemoApp\\DemoLibrary\\obj\\",
+        "outputPath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\ProjectTypes\\UnitTestDemoApp\\DemoLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
