@@ -1,0 +1,11 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_HelloMessageApp\hw_HelloMessage\bin\Debug\hw_HelloMessage.exe.config
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_HelloMessageApp\hw_HelloMessage\bin\Debug\hw_HelloMessage.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_HelloMessageApp\hw_HelloMessage\bin\Debug\hw_HelloMessage.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_HelloMessageApp\hw_HelloMessage\obj\Debug\hw_HelloMessage.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_HelloMessageApp\hw_HelloMessage\obj\Debug\hw_HelloMessage.csproj.SuggestedBindingRedirects.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_HelloMessageApp\hw_HelloMessage\obj\Debug\hw_HelloMessage.HelloMessage.resources
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_HelloMessageApp\hw_HelloMessage\obj\Debug\hw_HelloMessage.Properties.Resources.resources
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_HelloMessageApp\hw_HelloMessage\obj\Debug\hw_HelloMessage.csproj.GenerateResource.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_HelloMessageApp\hw_HelloMessage\obj\Debug\hw_HelloMessage.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_HelloMessageApp\hw_HelloMessage\obj\Debug\hw_HelloMessage.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_HelloMessageApp\hw_HelloMessage\obj\Debug\hw_HelloMessage.pdb

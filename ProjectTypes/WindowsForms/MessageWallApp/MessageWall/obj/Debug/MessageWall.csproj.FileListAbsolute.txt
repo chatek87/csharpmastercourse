@@ -1,0 +1,11 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\MessageWallApp\MessageWall\obj\Debug\MessageWall.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\MessageWallApp\MessageWall\obj\Debug\MessageWall.csproj.SuggestedBindingRedirects.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\MessageWallApp\MessageWall\obj\Debug\MessageWall.Dashboard.resources
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\MessageWallApp\MessageWall\obj\Debug\MessageWall.Properties.Resources.resources
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\MessageWallApp\MessageWall\obj\Debug\MessageWall.csproj.GenerateResource.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\MessageWallApp\MessageWall\obj\Debug\MessageWall.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\MessageWallApp\MessageWall\bin\Debug\MessageWall.exe.config
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\MessageWallApp\MessageWall\bin\Debug\MessageWall.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\MessageWallApp\MessageWall\bin\Debug\MessageWall.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\MessageWallApp\MessageWall\obj\Debug\MessageWall.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\MessageWallApp\MessageWall\obj\Debug\MessageWall.pdb
