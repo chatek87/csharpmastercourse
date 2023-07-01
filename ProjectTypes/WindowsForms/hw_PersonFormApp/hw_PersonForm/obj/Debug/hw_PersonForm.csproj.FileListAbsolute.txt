@@ -1,0 +1,15 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_PersonFormApp\hw_PersonForm\obj\Debug\hw_PersonForm.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_PersonFormApp\hw_PersonForm\obj\Debug\hw_PersonForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_PersonFormApp\hw_PersonForm\obj\Debug\hw_PersonForm.PersonEntry.resources
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_PersonFormApp\hw_PersonForm\obj\Debug\hw_PersonForm.Properties.Resources.resources
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_PersonFormApp\hw_PersonForm\obj\Debug\hw_PersonForm.csproj.GenerateResource.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_PersonFormApp\hw_PersonForm\obj\Debug\hw_PersonForm.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_PersonFormApp\hw_PersonForm\bin\Debug\hw_PersonForm.exe.config
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_PersonFormApp\hw_PersonForm\bin\Debug\hw_PersonForm.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_PersonFormApp\hw_PersonForm\bin\Debug\hw_PersonForm.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_PersonFormApp\hw_PersonForm\bin\Debug\DemoFrameworkLibrary.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_PersonFormApp\hw_PersonForm\bin\Debug\DemoFrameworkLibrary.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_PersonFormApp\hw_PersonForm\obj\Debug\hw_PersonForm.csproj.CopyComplete
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_PersonFormApp\hw_PersonForm\obj\Debug\hw_PersonForm.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_PersonFormApp\hw_PersonForm\obj\Debug\hw_PersonForm.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_PersonFormApp\hw_PersonForm\obj\Debug\hw_PersonForm.AddressEntry.resources

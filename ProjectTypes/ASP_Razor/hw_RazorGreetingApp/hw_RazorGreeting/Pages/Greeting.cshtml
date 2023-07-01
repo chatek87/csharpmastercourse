@@ -1,0 +1,21 @@
+﻿@page
+@model hw_RazorGreeting.Pages.GreetingPageModel
+@{
+    ViewData["Title"] = "Bubbin Greeting Page";
+}
+
+<h1>Bubbin Greetings!</h1>
+
+<form method="post">
+    <div class="form-group">
+        <input asp-for="FirstName" type="text" placeholder="Your first name" />
+        <input asp-for="LastName" type="text" placeholder="Your last name" />        
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </div>
+</form>
+
+
+@if (ViewData["Greeting"] != null)
+{
+    <h2>@ViewData["Greeting"]</h2>
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw_WPFPersonForm", "hw_WPFPersonForm\hw_WPFPersonForm.csproj", "{16B43CC1-AECB-4CAF-8148-E9C000ACF418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLibrary", "DemoLibrary\DemoLibrary.csproj", "{AC66B501-5EFA-4BBA-948A-B9DD3E049581}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16B43CC1-AECB-4CAF-8148-E9C000ACF418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B43CC1-AECB-4CAF-8148-E9C000ACF418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B43CC1-AECB-4CAF-8148-E9C000ACF418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B43CC1-AECB-4CAF-8148-E9C000ACF418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC66B501-5EFA-4BBA-948A-B9DD3E049581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC66B501-5EFA-4BBA-948A-B9DD3E049581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC66B501-5EFA-4BBA-948A-B9DD3E049581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC66B501-5EFA-4BBA-948A-B9DD3E049581}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BB2C349-EB7A-4D3D-885B-DB6C5969FFC1}
+	EndGlobalSection
+EndGlobal

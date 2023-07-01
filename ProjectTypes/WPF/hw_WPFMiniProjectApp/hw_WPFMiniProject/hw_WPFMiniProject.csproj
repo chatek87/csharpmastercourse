@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="DemoLibrary">
+      <HintPath>..\..\..\WindowsForms\hw_PersonFormApp\DemoLibrary\bin\Debug\net7.0\DemoLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

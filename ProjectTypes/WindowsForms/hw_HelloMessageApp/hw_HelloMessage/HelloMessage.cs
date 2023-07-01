@@ -19,16 +19,22 @@ namespace hw_HelloMessage
 
         private void clickMe_Click(object sender, EventArgs e)
         {
-            if (useTitleCheckBox.Checked)
+            if (string.IsNullOrWhiteSpace(firstNameBox.Text) && string.IsNullOrWhiteSpace(lastNameBox.Text))
             {
-                MessageBox.Show($"Hello {prefixes.Text} {firstNameBox.Text} {lastNameBox.Text}");
+                MessageBox.Show("You haven't entered a name.",
+                    "Blank Message Field", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else if (useTitleCheckBox.Checked)
+            {
+                MessageBox.Show($"Hello {prefixes.Text} {firstNameBox.Text} {lastNameBox.Text}.");
             }
             else
             {
-                MessageBox.Show($"Hello {firstNameBox.Text} {lastNameBox.Text}");
+                MessageBox.Show($"Hello {firstNameBox.Text} {lastNameBox.Text}.");
             }
         }
 
         
     }
 }
+ 

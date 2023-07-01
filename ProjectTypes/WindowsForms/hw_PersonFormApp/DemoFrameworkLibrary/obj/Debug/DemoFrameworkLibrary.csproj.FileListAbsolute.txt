@@ -1,0 +1,6 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_PersonFormApp\DemoFrameworkLibrary\bin\Debug\DemoFrameworkLibrary.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_PersonFormApp\DemoFrameworkLibrary\bin\Debug\DemoFrameworkLibrary.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_PersonFormApp\DemoFrameworkLibrary\obj\Debug\DemoFrameworkLibrary.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_PersonFormApp\DemoFrameworkLibrary\obj\Debug\DemoFrameworkLibrary.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_PersonFormApp\DemoFrameworkLibrary\obj\Debug\DemoFrameworkLibrary.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_PersonFormApp\DemoFrameworkLibrary\obj\Debug\DemoFrameworkLibrary.pdb

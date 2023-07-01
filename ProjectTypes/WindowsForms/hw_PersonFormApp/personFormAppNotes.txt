@@ -1,0 +1,8 @@
+(winforms project type)
+
+// create a form that takes in a person's info 
+
+// and another form that takes in address info (multiple per person)
+listbox for addresses
+click button to open new form where you can add address
+	on new form: click button -> saves address back to list box on first form

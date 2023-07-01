@@ -1,0 +1,16 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\WPFMessageWallApp\WPFFrameworkDemoUI\bin\Debug\WPFFrameworkDemoUI.exe.config
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\WPFMessageWallApp\WPFFrameworkDemoUI\bin\Debug\WPFFrameworkDemoUI.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\WPFMessageWallApp\WPFFrameworkDemoUI\bin\Debug\WPFFrameworkDemoUI.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\WPFMessageWallApp\WPFFrameworkDemoUI\obj\Debug\WPFFrameworkDemoUI.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\WPFMessageWallApp\WPFFrameworkDemoUI\obj\Debug\WPFFrameworkDemoUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\WPFMessageWallApp\WPFFrameworkDemoUI\obj\Debug\MainWindow.g.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\WPFMessageWallApp\WPFFrameworkDemoUI\obj\Debug\App.g.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\WPFMessageWallApp\WPFFrameworkDemoUI\obj\Debug\WPFFrameworkDemoUI_MarkupCompile.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\WPFMessageWallApp\WPFFrameworkDemoUI\obj\Debug\WPFFrameworkDemoUI_MarkupCompile.lref
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\WPFMessageWallApp\WPFFrameworkDemoUI\obj\Debug\MainWindow.baml
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\WPFMessageWallApp\WPFFrameworkDemoUI\obj\Debug\WPFFrameworkDemoUI.g.resources
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\WPFMessageWallApp\WPFFrameworkDemoUI\obj\Debug\WPFFrameworkDemoUI.Properties.Resources.resources
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\WPFMessageWallApp\WPFFrameworkDemoUI\obj\Debug\WPFFrameworkDemoUI.csproj.GenerateResource.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\WPFMessageWallApp\WPFFrameworkDemoUI\obj\Debug\WPFFrameworkDemoUI.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\WPFMessageWallApp\WPFFrameworkDemoUI\obj\Debug\WPFFrameworkDemoUI.exe
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\WPFMessageWallApp\WPFFrameworkDemoUI\obj\Debug\WPFFrameworkDemoUI.pdb

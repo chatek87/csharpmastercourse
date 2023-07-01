@@ -1,0 +1,15 @@
+﻿@page
+@model hw_RazorPagesMiniProject.Pages.PersonModel
+@{
+}
+
+<a href="/Address">Go to Address page</a>
+
+<form method="post">
+    <div class="form-group">
+        <input asp-for="FirstName" type="text" placeholder="First Name" />
+        <input asp-for="LastName" type="text" placeholder="Last Name" />
+        <input asp-for="Age" type="number" placeholder="Age" />
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </div>
+</form>

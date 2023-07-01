@@ -1,0 +1,5 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_PersonFormApp\DemoLibrary\obj\Debug\net5.0\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_PersonFormApp\DemoLibrary\obj\Debug\net5.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_PersonFormApp\DemoLibrary\obj\Debug\net5.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_PersonFormApp\DemoLibrary\obj\Debug\net5.0\DemoLibrary.AssemblyInfo.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\WindowsForms\hw_PersonFormApp\DemoLibrary\obj\Debug\net5.0\DemoLibrary.csproj.CoreCompileInputs.cache
