@@ -1,0 +1,24 @@
+﻿@page "/MessageWall"
+
+<h3>Message Wall</h3>
+<EditForm Model="model" OnValidSubmit="ValidSubmission">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <label for="message" class="form-label">@nameof(model.Message)</label>
+    <InputText id="message" @bind-Value="model.Message" class="form-control" />
+
+    <button class="btn btn-primary" type="submit">Submit</button>
+</EditForm>
+
+
+@code {
+    private MessageModel model = new();
+    private List<string> messages = new();
+
+    private void ValidSubmission()
+    {
+        messages.Add(model.Message);
+        model = new();
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Q/Eb+amGHZpuRHusu8Adc3uzSyRe+oObkif+UXhzvgE=",
+  "Source": "MessageWallAPI",
+  "BasePath": "_content/MessageWallAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

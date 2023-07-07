@@ -1,0 +1,31 @@
+﻿@model MyLibrary.PersonModel
+
+@{
+    ViewData["Title"] = "Create Message";
+}
+
+<h1>This is the Create Hello Message page!</h1>
+
+<!--<h2>Hello, @Model.FirstName @Model.LastName</h2>-->
+
+@using (Html.BeginForm("Submit", "HelloMessage", FormMethod.Post))
+{
+    <div>
+        <label for="firstName">First Name:</label>
+        <input type="text" id="firstName" name="FirstName" />
+    </div>
+    <div>
+        <label for="lastName">Last Name:</label>
+        <input type="text" id="lastName" name="LastName" />
+    </div>
+    <div>
+        <input type="submit" value="Submit" />
+    </div>
+}
+
+<div id="helloMessage">
+    @if (!string.IsNullOrEmpty(ViewBag.Message))
+    {
+        <h2>@ViewBag.Message</h2>
+    }
+</div>

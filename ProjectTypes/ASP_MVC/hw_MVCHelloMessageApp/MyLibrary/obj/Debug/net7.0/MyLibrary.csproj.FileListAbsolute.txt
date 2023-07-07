@@ -1,0 +1,12 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\ASP_MVC\hw_MVCHelloMessageApp\MyLibrary\bin\Debug\net7.0\MyLibrary.deps.json
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\ASP_MVC\hw_MVCHelloMessageApp\MyLibrary\bin\Debug\net7.0\MyLibrary.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\ASP_MVC\hw_MVCHelloMessageApp\MyLibrary\bin\Debug\net7.0\MyLibrary.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\ASP_MVC\hw_MVCHelloMessageApp\MyLibrary\obj\Debug\net7.0\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\ASP_MVC\hw_MVCHelloMessageApp\MyLibrary\obj\Debug\net7.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\ASP_MVC\hw_MVCHelloMessageApp\MyLibrary\obj\Debug\net7.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\ASP_MVC\hw_MVCHelloMessageApp\MyLibrary\obj\Debug\net7.0\MyLibrary.AssemblyInfo.cs
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\ASP_MVC\hw_MVCHelloMessageApp\MyLibrary\obj\Debug\net7.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\ASP_MVC\hw_MVCHelloMessageApp\MyLibrary\obj\Debug\net7.0\MyLibrary.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\ASP_MVC\hw_MVCHelloMessageApp\MyLibrary\obj\Debug\net7.0\refint\MyLibrary.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\ASP_MVC\hw_MVCHelloMessageApp\MyLibrary\obj\Debug\net7.0\MyLibrary.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\ProjectTypes\ASP_MVC\hw_MVCHelloMessageApp\MyLibrary\obj\Debug\net7.0\ref\MyLibrary.dll

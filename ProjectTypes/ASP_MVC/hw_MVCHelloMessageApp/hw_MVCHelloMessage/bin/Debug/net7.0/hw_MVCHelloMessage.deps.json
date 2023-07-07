@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "hw_MVCHelloMessage/1.0.0": {
+        "dependencies": {
+          "MyLibrary": "1.0.0"
+        },
+        "runtime": {
+          "hw_MVCHelloMessage.dll": {}
+        }
+      },
+      "MyLibrary/1.0.0": {
+        "runtime": {
+          "MyLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hw_MVCHelloMessage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

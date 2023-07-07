@@ -1,0 +1,21 @@
+OVERVIEW ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Contact List - think of it as the contacts in your phone.
+
+Data to Store:
+- First Name
+- Last Name
+- Email Address(es)
+- Phone Number(s)
+
+
+QUERIES ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Create - Add 2 Contacts, each with 2 email addresses (one of which is shared between them), 
+and 2 phone numbers (one of which is also shared between them).
+
+Read - Get Contact with Phone Number(s) and Email Address(es) by ID. Also get all contacts.
+
+Update - Change a Contact's name.
+
+Delete - Remove a Phone number from a contact.
