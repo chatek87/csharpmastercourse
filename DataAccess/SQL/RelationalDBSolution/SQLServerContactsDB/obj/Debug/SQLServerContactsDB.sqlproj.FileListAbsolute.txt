@@ -4,3 +4,7 @@ C:\Users\charl\dev\learn\timcorey\c#mastercourse\DataAccess\SQL\RelationalDBSolu
 C:\Users\charl\dev\learn\timcorey\c#mastercourse\DataAccess\SQL\RelationalDBSolution\SQLServerContactsDB\obj\Debug\SQLServerContactsDB.sqlproj.AssemblyReference.cache
 C:\Users\charl\dev\learn\timcorey\c#mastercourse\DataAccess\SQL\RelationalDBSolution\SQLServerContactsDB\obj\Debug\SQLServerContactsDB.dll
 C:\Users\charl\dev\learn\timcorey\c#mastercourse\DataAccess\SQL\RelationalDBSolution\SQLServerContactsDB\obj\Debug\SQLServerContactsDB.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\DataAccess\SQL\RelationalDBSolution\SQLServerContactsDB\obj\Debug\Model.xml
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\DataAccess\SQL\RelationalDBSolution\SQLServerContactsDB\obj\Debug\refactor.xml
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\DataAccess\SQL\RelationalDBSolution\SQLServerContactsDB\obj\Debug\postdeploy.sql
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\DataAccess\SQL\RelationalDBSolution\SQLServerContactsDB\obj\Debug\predeploy.sql

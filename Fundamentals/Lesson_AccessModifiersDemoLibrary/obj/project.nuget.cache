@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5G9lFql7x+LMUJ6Q49gNOjXrqXQo5T0e0xal+SZwl0/pvkohBbsalecdlH9mhCEL4SYR9Rz6NUtpzzVzXbJ2Hg==",
+  "dgSpecHash": "rOrBV37nDi5OzANiUyHr1RwXgKFX47MAubq+kvxcotNgNLim4ks8T3eMLG0jkhQ6OmERd9PC6Lr79Xktb1pOnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\hw\\Lesson_AccessModifiersDemoLibrary\\Lesson_AccessModifiersDemoLibrary.csproj",
+  "projectFilePath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\Fundamentals\\Lesson_AccessModifiersDemoLibrary\\Lesson_AccessModifiersDemoLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

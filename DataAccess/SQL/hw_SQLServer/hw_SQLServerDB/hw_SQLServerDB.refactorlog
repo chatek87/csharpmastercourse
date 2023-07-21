@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="cb2ce5df-888c-4bcc-adb3-85c9a012a5dc" ChangeDateTime="07/12/2023 01:04:02">
+    <Property Name="ElementName" Value="[dbo].[PeopleAddresses].[PeopleId]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[PeopleAddresses]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="PersonId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="23c92de9-7588-418d-88bb-e682786cf326" ChangeDateTime="07/12/2023 01:08:29">
+    <Property Name="ElementName" Value="[dbo].[PeopleAddresses].[AddressId]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[PeopleAddresses]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="AddressesId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="2403ee8e-5d5d-42d4-b23c-f132b6189b57" ChangeDateTime="07/12/2023 01:08:38">
+    <Property Name="ElementName" Value="[dbo].[PeopleAddresses].[PersonId]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[PeopleAddresses]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="PeopleId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="5ca9a688-65a4-4cbf-8e22-af9d52275214" ChangeDateTime="07/12/2023 01:19:08">
+    <Property Name="ElementName" Value="[dbo].[EmployersAddresses].[EmployersId]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[EmployersAddresses]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="EmployerId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="43db5421-723d-486e-a885-7df81fe7c363" ChangeDateTime="07/12/2023 01:19:14">
+    <Property Name="ElementName" Value="[dbo].[EmployersAddresses].[AddressesId]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[EmployersAddresses]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="AddressId" />
+  </Operation>
+</Operations>

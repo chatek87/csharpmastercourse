@@ -1,0 +1,10 @@
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\DataAccess\SQL\SQLServerHW\hw_SQLServer\hw_SQLServerDB\bin\Debug\hw_SQLServerDB.dacpac
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\DataAccess\SQL\SQLServerHW\hw_SQLServer\hw_SQLServerDB\bin\Debug\hw_SQLServerDB.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\DataAccess\SQL\SQLServerHW\hw_SQLServer\hw_SQLServerDB\bin\Debug\hw_SQLServerDB.pdb
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\DataAccess\SQL\SQLServerHW\hw_SQLServer\hw_SQLServerDB\obj\Debug\hw_SQLServerDB.sqlproj.AssemblyReference.cache
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\DataAccess\SQL\SQLServerHW\hw_SQLServer\hw_SQLServerDB\obj\Debug\Model.xml
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\DataAccess\SQL\SQLServerHW\hw_SQLServer\hw_SQLServerDB\obj\Debug\refactor.xml
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\DataAccess\SQL\SQLServerHW\hw_SQLServer\hw_SQLServerDB\obj\Debug\postdeploy.sql
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\DataAccess\SQL\SQLServerHW\hw_SQLServer\hw_SQLServerDB\obj\Debug\predeploy.sql
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\DataAccess\SQL\SQLServerHW\hw_SQLServer\hw_SQLServerDB\obj\Debug\hw_SQLServerDB.dll
+C:\Users\charl\dev\learn\timcorey\c#mastercourse\DataAccess\SQL\SQLServerHW\hw_SQLServer\hw_SQLServerDB\obj\Debug\hw_SQLServerDB.pdb

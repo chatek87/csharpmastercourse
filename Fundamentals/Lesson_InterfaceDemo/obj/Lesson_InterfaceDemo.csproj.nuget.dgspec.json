@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\hw\\Lesson_InterfaceDemo\\Lesson_InterfaceDemo.csproj": {}
+    "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\Fundamentals\\Lesson_InterfaceDemo\\Lesson_InterfaceDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\hw\\Lesson_InterfaceDemo\\Lesson_InterfaceDemo.csproj": {
+    "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\Fundamentals\\Lesson_InterfaceDemo\\Lesson_InterfaceDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\hw\\Lesson_InterfaceDemo\\Lesson_InterfaceDemo.csproj",
+        "projectUniqueName": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\Fundamentals\\Lesson_InterfaceDemo\\Lesson_InterfaceDemo.csproj",
         "projectName": "Lesson_InterfaceDemo",
-        "projectPath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\hw\\Lesson_InterfaceDemo\\Lesson_InterfaceDemo.csproj",
+        "projectPath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\Fundamentals\\Lesson_InterfaceDemo\\Lesson_InterfaceDemo.csproj",
         "packagesPath": "C:\\Users\\charl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\hw\\Lesson_InterfaceDemo\\obj\\",
+        "outputPath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\Fundamentals\\Lesson_InterfaceDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

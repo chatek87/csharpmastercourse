@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D7BxcH63MwcdNbOewCJ0b87+iYWJm6HglNqmq6eopuMe2iSAUdGuKbT5HbvKdnVnVuCFgeSNwwpSnRQ7aOqv5A==",
+  "dgSpecHash": "sQ085HGHwB4HgWT0P7jNM0PGkNjV51R5O4Evwmu9C7c1jTr4Aw8W9uPi/fufiP2IYMF86z9zsCVgVOjvSU5x/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\hw\\GuestBookLibrary\\GuestBook.Library.csproj",
+  "projectFilePath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\Fundamentals\\GuestBookLibrary\\GuestBook.Library.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

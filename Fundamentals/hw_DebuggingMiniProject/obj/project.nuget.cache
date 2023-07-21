@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FxDSbugbp2gKLFphQbockoqZWRCD5ndhfgu2Q1JQOujO1TPuDqjQLju5w6DVbWb58p2OW/pfcFxI1TZv420agQ==",
+  "dgSpecHash": "pzxSSgIv9CFyyqFiCQ7W84HGTv1La4Oo0WXUQQTrHfArIoh+bs6rqL3JS0+sZg8U/t/TEZIbbUjifI2pu976KA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\hw\\hw_DebuggingMiniProject\\hw_DebuggingMiniProject.csproj",
+  "projectFilePath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\Fundamentals\\hw_DebuggingMiniProject\\hw_DebuggingMiniProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zPRNon6jrpURuCObQOCBZ7CaHfGgjOR6Rsy962YmPiCE49Rwhrb/FI4zGf+wV9bzpy9toCB3s+26DjS1QALSzg==",
+  "dgSpecHash": "DPnGvBAMXcdfYbNUMSkeRHKVhs+YSP2dN3mw9T02alq5rLoDUnA+EzeUYeazaXzjIJwsUNj5FbhbV7OkcWHSXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\hw\\hw_GuestBookMiniProject2\\GuestBook.ConsoleUI.csproj",
+  "projectFilePath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\Fundamentals\\hw_GuestBookMiniProject2\\GuestBook.ConsoleUI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

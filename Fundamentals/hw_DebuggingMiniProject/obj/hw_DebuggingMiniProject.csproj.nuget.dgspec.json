@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\hw\\hw_DebuggingMiniProject\\hw_DebuggingMiniProject.csproj": {}
+    "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\Fundamentals\\hw_DebuggingMiniProject\\hw_DebuggingMiniProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\hw\\hw_DebuggingMiniProject\\hw_DebuggingMiniProject.csproj": {
+    "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\Fundamentals\\hw_DebuggingMiniProject\\hw_DebuggingMiniProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\hw\\hw_DebuggingMiniProject\\hw_DebuggingMiniProject.csproj",
+        "projectUniqueName": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\Fundamentals\\hw_DebuggingMiniProject\\hw_DebuggingMiniProject.csproj",
         "projectName": "hw_DebuggingMiniProject",
-        "projectPath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\hw\\hw_DebuggingMiniProject\\hw_DebuggingMiniProject.csproj",
+        "projectPath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\Fundamentals\\hw_DebuggingMiniProject\\hw_DebuggingMiniProject.csproj",
         "packagesPath": "C:\\Users\\charl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\hw\\hw_DebuggingMiniProject\\obj\\",
+        "outputPath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\Fundamentals\\hw_DebuggingMiniProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

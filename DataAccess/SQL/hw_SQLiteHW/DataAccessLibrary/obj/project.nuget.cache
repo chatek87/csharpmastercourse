@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Unc42yfu8X8BFHusWoW7RKggxkMB9YlQy99HyuO3hgMlAhSFa/BuNq8JcWATjG+1p4FjYrFX4oHZ3JDH27y9HA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\DataAccess\\SQL\\hw_SQLiteHW\\DataAccessLibrary\\DataAccessLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\charl\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
+  ],
+  "logs": []
+}

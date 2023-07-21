@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7zhU51cjZ13hgADoGcqw+SEV8vuaOVE6k7tHB1dZujNGepKYL0c3F94yo7TNW/gmhj1l5ZA1fOj8H+zKz4NlGg==",
+  "dgSpecHash": "duJS2PtsL0E0yoTbH8n1tTLpCSTENMtE5vM4m1tQu7vXmHFdmI3Xj5EVRSeWjizFanSx+UXOc72LpM+goja0ag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\hw\\hw_ExtensionMethods\\hw_ExtensionMethods.csproj",
+  "projectFilePath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\Fundamentals\\hw_ExtensionMethods\\hw_ExtensionMethods.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

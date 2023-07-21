@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IZ7elGMMHCVxMXbXB/lhFoVgVoYFVI/ZEVNNgO5y+a899Mltc8uZHvhVib6+gdIDlGtFB9MWrM1c8m7EMYmJ3w==",
+  "dgSpecHash": "x0bGIUtXSLd9Zb0agzct0Yb759W2gZ1QVs3tSMhS/0z8uiUkHmv4aDE9poCrY3N9plZbb6E10P3lP6Z9iLOB1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\hw\\Lesson_ExtensionMethodsDemo\\Lesson_ExtensionMethodsDemo.csproj",
+  "projectFilePath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\Fundamentals\\Lesson_ExtensionMethodsDemo\\Lesson_ExtensionMethodsDemo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MVF5IhSoLICQbMCQ6nFkPRZLx73VEVmSx8K7eZsU+FXYKw2HGpUj7r9mfpaoOpkItL1eykGK2z24ZsT3SvsC2A==",
+  "dgSpecHash": "VmpzsKFUz8x+3zO3AJVhgsmS68rIuOyoY72GwB21kHaD0IWF1gCmuZyi0YL9lWfHqYgzxzrPX2owZn0S30MxZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\hw\\hw_Generics\\hw_Generics.csproj",
+  "projectFilePath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\Fundamentals\\hw_Generics\\hw_Generics.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

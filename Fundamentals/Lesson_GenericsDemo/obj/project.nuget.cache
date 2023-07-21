@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qY4ySfVbOukUUn0f/6dPXeBaB3eFIe8PXhgRXj2JaI8h3R08aJ08F1hubFbTRSVlkzxLoOmgee6z8Y8e1xsw2g==",
+  "dgSpecHash": "I0U8cKll5IcYCC+FgSTotYdC5pxtJ5t3TTKnXyYWsNgiVdoCwNlqJ61dthYGQR5Lg+VHOThxhKAXSmGbwAUylg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\hw\\Lesson_GenericsDemo\\Lesson_GenericsDemo.csproj",
+  "projectFilePath": "C:\\Users\\charl\\dev\\learn\\timcorey\\c#mastercourse\\Fundamentals\\Lesson_GenericsDemo\\Lesson_GenericsDemo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
